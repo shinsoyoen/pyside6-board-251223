@@ -1,17 +1,16 @@
-과제 전형 / 지원자 : 신소연
-
+지원자 : 신소연
 
 ## 실행 방법
-# 1. 가상환경 생성
+### 1. 가상환경 생성
 conda create -n pyside6 -c conda-forge pyside6 qt-main
 
-# 2. 가상환경 활성화
+### 2. 가상환경 활성화
 conda activate pyside6
 
-# 3. pip 설치
+### 3. pip 설치
 python -m pip install --upgrade pip
 
-# 4. 실행
+### 4. 실행
 python main.py
 
 
